@@ -1,4 +1,9 @@
 ### MVVM for ios
+
+![Rectangle 25-2](https://github.com/user-attachments/assets/52810e5e-7673-4890-880c-7be393573d25)
+![Rectangle 25-3](https://github.com/user-attachments/assets/f28a541c-4bfc-48b8-80bf-a4c8d759bb9f)
+![Rectangle 25-4](https://github.com/user-attachments/assets/db724e42-3732-4afb-bc09-d83c1c896d2b)
+
 **UIKit implementation**
 Following the udemy course "MVVM Design Pattern Using Swift in iOS" this repository contains all the example apps we went through to understand the concepts behind MVVM architecture.
 
